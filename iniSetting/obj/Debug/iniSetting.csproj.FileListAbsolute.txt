@@ -1,0 +1,83 @@
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting\iniSetting\bin\Debug\ini讀寫.pdb
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.exe.config
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.exe
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.pdb
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.exe
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.pdb
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\obj\Debug\inisetting.Form1.resources
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+D:\My Skype Received Files\iniSetting-20160808\iniSetting-20160808\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160808\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160809\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160810\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160811\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\user\Desktop\iniSetting-20160811\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\iniSetting-20160815\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.pdb
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.exe
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\bin\Debug\ini讀寫.pdb
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\iniSetting.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\inisetting.Form1.resources
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\Owner\Desktop\專案\iniSetting-20160815\iniSetting\obj\Debug\iniSetting.csproj.GenerateResource.Cache

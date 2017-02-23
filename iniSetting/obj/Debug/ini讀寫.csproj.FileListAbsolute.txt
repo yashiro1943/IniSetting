@@ -1,0 +1,30 @@
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\bin\Debug\ini讀寫.exe.config
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\bin\Debug\ini讀寫.exe
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\bin\Debug\ini讀寫.pdb
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.Form1.resources
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.Properties.Resources.resources
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.csproj.GenerateResource.Cache
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.exe
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.pdb
+c:\users\um\documents\visual studio 2013\Projects\ini讀寫\ini讀寫\obj\Debug\ini讀寫.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.Form1.resources
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\ini讀寫\ini讀寫\obj\Debug\ini讀寫.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\bin\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\bin\Debug\ini讀寫.pdb
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\ini讀寫.csprojResolveAssemblyReference.cache
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\ini讀寫.Properties.Resources.resources
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\ini讀寫.csproj.GenerateResource.Cache
+C:\Users\yashiro1943\Desktop\ini讀寫_新畫面\ini讀寫\obj\Debug\inisetting.Form1.resources
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\bin\Debug\ini讀寫.exe.config
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\obj\Debug\ini讀寫.exe
+C:\Users\yashiro1943\Desktop\ini讀寫複製\iniSetting\obj\Debug\ini讀寫.pdb
